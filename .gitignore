@@ -138,3 +138,4 @@ yarn-error.log*
 # launch configuration
 launch.json
 
+.history
